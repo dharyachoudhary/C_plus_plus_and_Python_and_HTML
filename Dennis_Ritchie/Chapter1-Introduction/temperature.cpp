@@ -1,4 +1,4 @@
-// For Faherehit to celcius and celcius to Faherehit.
+// For Faherehit to celcius.
 # include <stdio.h>
 
 // 1.c = 33.8 faher
