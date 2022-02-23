@@ -1,4 +1,4 @@
-// Count character and lines from file
+// Count character and lines from file.
 /*
     !   Not
     !=  Not equal
