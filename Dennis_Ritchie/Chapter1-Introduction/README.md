@@ -19,3 +19,8 @@
     Float:      %f
     String:     %s
 ```
+
+### For
+```c
+for ( Initialization; Test; Increment )
+``` 
