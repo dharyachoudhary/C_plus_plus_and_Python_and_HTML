@@ -1,4 +1,6 @@
-### Multiline Comment
+# Heading1
+## Heading2
+### Heading3
 - Datatypes in C/C++:
 ```c
     - int(Integer/Whole Numbers)          .. -4 -3 -2 -1 0 1 2 3 4 ..
